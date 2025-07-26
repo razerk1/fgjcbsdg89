@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Sky" tvg-name="Sky",Sky
+http://gazbhoy.co.uk:80/play/live.php?mac=00:1A:79:58:CD:CD&stream=1536782&extension=ts&play_token=KHp8ZNIxfW
+#EXTINF:0 tvg-id="Tnt" tvg-name="Tnt",Tnt
+http://gazbhoy.co.uk:80/play/live.php?mac=00:1A:79:58:CD:CD&stream=1461453&extension=ts&play_token=XmaDzFdCJM
