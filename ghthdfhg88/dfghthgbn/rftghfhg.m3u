@@ -3,3 +3,7 @@
 http://gazbhoy.co.uk:80/play/live.php?mac=00:1A:79:58:CD:CD&stream=1536782&extension=ts&play_token=KHp8ZNIxfW
 #EXTINF:0 tvg-id="Tnt" tvg-name="Tnt",Tnt
 http://gazbhoy.co.uk:80/play/live.php?mac=00:1A:79:58:CD:CD&stream=1461453&extension=ts&play_token=XmaDzFdCJM
+#EXTINF:0 tvg-id="Sky 2" tvg-name="Sky 2",Sky 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:22:01:06&stream=1608071&extension=ts&play_token=rGKIFodteA
+#EXTINF:0 tvg-id="Tnt 2" tvg-name="Tnt 2",Tnt 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:22:01:06&stream=1479591&extension=ts&play_token=tRSRzN4BIm
