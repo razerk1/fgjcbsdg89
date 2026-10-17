@@ -10,7 +10,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-id="Chao" tvg-name="Chao",Chao
-#EXTVLCOPT:http-referrer=https://fhd.cctvsignal.xyz/
+#EXTVLCOPT:http-referrer=https://gckc0525.edgemaxcdn.org/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 
 #EXTM3U
